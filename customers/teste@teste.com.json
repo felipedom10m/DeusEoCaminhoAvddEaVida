@@ -1,0 +1,13 @@
+{
+  "email": "teste@teste.com",
+  "produto": "DeusEoCaminhoAvddEaVida",
+  "upsells_comprados": [
+    1
+  ],
+  "data": "2025-08-20T17:25:23.122Z",
+  "transacao_id": "checkout_126231",
+  "acesso_liberado": true,
+  "nome": "teste teste",
+  "cpf": "19100000000",
+  "telefone": "11987206971"
+}
